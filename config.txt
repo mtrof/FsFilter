@@ -1,0 +1,5 @@
+C:\Windows\System32\notepad.exe
+C:\Users\<username>\Desktop
+rwx S-1-5-114
+rw- <group SID>
+r-- <group SID>
